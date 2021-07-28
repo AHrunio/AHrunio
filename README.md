@@ -4,7 +4,7 @@
 
 偶尔利用Cheat Engine通过汇编自制一些游戏修改器，基于Unity开发过一个入门级平台跳跃游戏。 
 
-喜欢各种 Rouglike 游戏，steam😂
+喜欢各种 Rouglike 游戏，荣获steam 😂
 
 ![image-20210728103029610](https://gitee.com/ahrunio/pic-go-image-hosting-service/raw/master/img/image-20210728103029610.png)
 
