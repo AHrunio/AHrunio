@@ -10,8 +10,8 @@
 
 我在GITHUB中目前值得一看的repo主要有：
 
-+ [和算法约会（leetcode刷题笔记）](https://github.com/AHrunio/Dating-Algorithm)
 + [Stay-Hungry（面试常见问题和一些入门级教程）](https://github.com/AHrunio/Stay-Hungry)
++ [和算法约会（leetcode刷题笔记）](https://github.com/AHrunio/Dating-Algorithm)
 + [Redis入门](https://github.com/AHrunio/The-ABC-of-Redis)
 
 ### 我的其他repo🌱：
