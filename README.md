@@ -30,3 +30,9 @@
 [![微信-Undertale_ix-brightgreen.svg](https://img.shields.io/badge/微信-Undertale__ix-red.svg)](https://gitee.com/ahrunio/pic-go-image-hosting-service/raw/master/img/image-20210728110120514.png)		[![github-AHrunio-lightgrey.svg](https://img.shields.io/badge/github-AHrunio-lightgrey.svg)](https://github.com/AHrunio)
 
 ![image-20210802213923204](https://gitee.com/ahrunio/pic-go-image-hosting-service/raw/master/img/image-20210802213923204.png)
+
+
+
+
+
+> 有人居然看了我的Stay-Hungry过了面试，太感人了...咱也要继续努力了🐱‍👤！！
