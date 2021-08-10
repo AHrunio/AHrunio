@@ -16,10 +16,12 @@
 
 ### 我的其他repo🌱：
 
+- [面试重点题、错题集（持续更新中）](https://github.com/AHrunio/Wrong_topic)
 - [MySQL入门](https://github.com/AHrunio/MySQL-Introduction)
 - [使用Xshell连接阿里云服务器](https://github.com/AHrunio/Connect-to-Alicloud-Server-Using-Xshell)
 - [MySQL操作指南&&Navicate连接](https://github.com/AHrunio/MySQL-Operation-Guide)
 - [浅述Https加密机制](https://github.com/AHrunio/HTTP-Encryption)
+
 
 待补充......🐱‍🏍
 
